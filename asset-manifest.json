@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/vkontacte_1/static/css/main.c47cf90e.chunk.css",
+    "main.js": "/vkontacte_1/static/js/main.a7efa73a.chunk.js",
+    "main.js.map": "/vkontacte_1/static/js/main.a7efa73a.chunk.js.map",
+    "runtime-main.js": "/vkontacte_1/static/js/runtime-main.9e38c4b9.js",
+    "runtime-main.js.map": "/vkontacte_1/static/js/runtime-main.9e38c4b9.js.map",
+    "static/css/2.2cfa1b23.chunk.css": "/vkontacte_1/static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.62ac45a1.chunk.js": "/vkontacte_1/static/js/2.62ac45a1.chunk.js",
+    "static/js/2.62ac45a1.chunk.js.map": "/vkontacte_1/static/js/2.62ac45a1.chunk.js.map",
+    "index.html": "/vkontacte_1/index.html",
+    "precache-manifest.07173dd2badb289cd79e0042041902a2.js": "/vkontacte_1/precache-manifest.07173dd2badb289cd79e0042041902a2.js",
+    "service-worker.js": "/vkontacte_1/service-worker.js",
+    "static/css/2.2cfa1b23.chunk.css.map": "/vkontacte_1/static/css/2.2cfa1b23.chunk.css.map",
+    "static/css/main.c47cf90e.chunk.css.map": "/vkontacte_1/static/css/main.c47cf90e.chunk.css.map",
+    "static/js/2.62ac45a1.chunk.js.LICENSE.txt": "/vkontacte_1/static/js/2.62ac45a1.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/vkontacte_1/static/media/avatar.6533e6d0.png",
+    "static/media/icon.svg": "/vkontacte_1/static/media/icon.1bab3ffd.svg",
+    "static/media/user_icon.svg": "/vkontacte_1/static/media/user_icon.9f87697c.svg",
+    "static/media/Акции в обложках.png": "/vkontacte_1/static/media/Акции в обложках.e25dda64.png",
+    "static/media/Акции и скидки.png": "/vkontacte_1/static/media/Акции и скидки.3d833e14.png",
+    "static/media/Акционные товары.png": "/vkontacte_1/static/media/Акционные товары.ba3779d1.png",
+    "static/media/Отзывы.png": "/vkontacte_1/static/media/Отзывы.e0509534.png",
+    "static/media/Отзывы_1.png": "/vkontacte_1/static/media/Отзывы_1.527308e8.png",
+    "static/media/Персональное предложение.png": "/vkontacte_1/static/media/Персональное предложение.7e7aa5c6.png",
+    "static/media/Рекомендованные товары.png": "/vkontacte_1/static/media/Рекомендованные товары.09538723.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e38c4b9.js",
+    "static/css/2.2cfa1b23.chunk.css",
+    "static/js/2.62ac45a1.chunk.js",
+    "static/css/main.c47cf90e.chunk.css",
+    "static/js/main.a7efa73a.chunk.js"
+  ]
+}
